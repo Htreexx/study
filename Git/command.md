@@ -1,2 +1,3 @@
 - 回滚
-  - git reset --mixed  :对归档区与缓存区进行回滚
+  - `git reset --mixed`  :对归档区与缓存区进行回滚
+  - `git reset --hard` : 对归档区，缓存区和工作区都进行回滚
